@@ -1,5 +1,5 @@
 {
-    "name": "ESP Web Tool",
+    "name": "SlimeVR Firmware 0.0.1",
     "new_install_prompt_erase": true,
     "builds": [
       {
